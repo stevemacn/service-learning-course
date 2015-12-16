@@ -1,0 +1,72 @@
+# ==================
+# Week 1
+#
+-
+  date: 2016-01-15
+  info: Introduction to the course
+  hw:
+
+#
+# ==================
+# Week 2
+#
+-
+  date: 2016-01-22
+  info: Introduction to service learning
+  hw:
+
+
+
+#
+# ==================
+# Week 3
+#
+-
+  date: 2016-01-29
+  info: "Peer Review of Proposals<br/>Intro to Organizational Technology"
+  hw:
+    - info: Proposal Draft Due
+      link: Who knows
+
+#
+# ==================
+# Week 3
+#
+-
+  date: 2016-02-5
+  info: Proposal Writing Workshop (Meera Sridhair + Berto?)
+  hw:
+
+-
+  date: 2016-02-12
+  info: "Teambuilding Workshop: (Who can host?)"
+  hw:
+  - Funding Proposals due
+#
+# ==================
+# Week 4
+#
+-
+  date: 2016-02-19
+  info: Organizational Technologies Presentation
+  hw:
+
+-
+  date: 2016-2-26
+  info: Present funding proposals
+  hw:
+
+#
+# ==================
+# Week 5
+#
+-
+  date: 2016-3-4
+  info:
+  hw:
+  break: Spring Break - No Class
+
+-
+  date: 2016-3-11
+  info: Panel for Career Opportunities
+  hw:

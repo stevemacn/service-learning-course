@@ -1,0 +1,23 @@
+courseID: CS 3211/3212
+courseTitle: STARS Service Learning Course
+
+description: Course Page for CS 5220
+author: Stephen MacNeil
+authorURL: http://stevemacn.github.io
+email: smacnei2@uncc.edu
+baseurl: "/"
+url: "http://cornell-cs5220-f15.github.io/"
+
+office-hours: "Tues & Wed 2-3pm, or by appt"
+office-location: "Woodward 300"
+schedule-link: https://stevemacn.youcanbook.me/
+
+lecture-time: "Fri 1-2pm"
+lecture-location: "TBD"
+
+encoding: utf-8
+timezone: America/New_York
+
+exclude: ["Rakefile"]
+
+markdown: kramdown

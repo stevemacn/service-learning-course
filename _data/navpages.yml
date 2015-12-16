@@ -1,0 +1,9 @@
+- link: syllabus
+  name: Syllabus
+  icon: fa-bank
+- link: schedule
+  name: Schedule
+  icon: fa-calendar
+- link: resources
+  name: Resources
+  icon: fa-file-o

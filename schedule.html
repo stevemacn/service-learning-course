@@ -1,0 +1,65 @@
+---
+title: Schedule
+layout: top
+---
+
+<h2>Schedule</h2>
+<hr/>
+
+<p>
+  This schedule is still tentative
+</p>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+    <colgroup>
+      <col class="col-xs-1">
+      <col class="col-xs-1">
+      <col class="col-xs-1">
+      <col class="col-xs-3">
+      <col class="col-xs-3">
+      <col class="col-xs-3">
+    </colgroup>
+    <thead>
+      <tr>
+        <th>Week</th>
+        <th>Day</th>
+        <th>Date</th>
+        <th>Topics</th>
+        <th>Activity</th>
+        <th>Homework</th>
+      </tr>
+    </thead>
+    {% assign week = 0 %}
+    {% for lec in site.data.lectures %}
+
+    <tr{% if lec.break %} class="info"{% endif %}>
+      {% assign day = lec.date | date: "%a" %}
+      <th>{% if day == "Fri" %}
+          {% assign week = week | plus: 1 %}
+          {{ week }}
+        {% endif %}</th>
+      <td>{{ day }}</td>
+      <td>{{ lec.date | date: "%b %d" }}</td>
+      {% if lec.break %}
+      <td>{{ lec.break }}</td>
+      {% else %}
+      <td>{% if lec.info %}{{ lec.info | markdownify }}{% endif %}</td>
+      {% endif %}
+      <td></td>
+      <td>
+        {% if lec.hw %}
+          {% for item in lec.hw %}
+            {% if item.link %}
+            <a href="{{item.link}}">{{item.info}}</a>
+            {% else %}
+            <p>{{item.info}}</p>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </td>
+
+    </tr>
+    {% endfor %}
+  </table>
+</div>
