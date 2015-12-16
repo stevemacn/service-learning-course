@@ -53,8 +53,9 @@
     {% include navbar.html %}
 
     <div class="container theme-showcase" role="main">
-
-      {{ content }}
+      <div class="{{ page.title }}">
+        {{ content }}
+      </div>
 
       <div class="push"></div>
 
