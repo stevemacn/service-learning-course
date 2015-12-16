@@ -10,7 +10,7 @@ Syllabus
 
 ### Course Info
 
-{{site.courseID}}, Fall 2015<br />
+{{site.courseID}}, {{site.year}}<br />
 Lecture time: {{site.lecture-time}}<br />
 Lecture location: {{site.lecture-location}}
 
