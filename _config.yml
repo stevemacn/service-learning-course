@@ -6,8 +6,8 @@ description: Course Page for CS 5220
 author: Stephen MacNeil
 authorURL: http://stevemacn.github.io
 email: smacnei2@uncc.edu
-baseurl: "/"
-url: "http://cornell-cs5220-f15.github.io/"
+baseurl: "/service-learning-course/"
+url: "http://stevemacn.github.io/service-learning-course/"
 
 office-hours: "Tues & Wed 2-3pm, or by appt"
 office-location: "Woodward 300"
