@@ -12,9 +12,9 @@ layout: top
 <div style="padding:20px;" class="row">
 {% for video in site.data.resources %}
 {% if video.type == "video" %}
-  <div style="width:305px; height: 310; float:left;">
-    <h4 style="overflow:hidden; margin: 0 10px 0 10px; padding: 10px; text-align:center">{{video.title}}</h4>
-    <iframe width="300" height="300" src="{{video.link}}" frameborder="0" allowfullscreen></iframe>
+  <div style="background:gray; margin:10px; width:300px; height: 100%; float:left;">
+    <h4 style="color:white; overflow:hidden; margin: 0 10px 0 10px; padding: 10px; text-align:center">{{video.title}}</h4>
+    <iframe style="background: black;" width="300" height="300" src="{{video.link}}" frameborder="0" allowfullscreen></iframe>
   </div>
   {% endif %}
   {% endfor %}
