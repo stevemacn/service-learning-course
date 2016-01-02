@@ -1,7 +1,6 @@
-
 ---
-title:      Syllabus
-layout:     top
+title: Syllabus
+layout: top
 ---
 
 Syllabus
