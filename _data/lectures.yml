@@ -3,7 +3,7 @@
 #
 -
   date: 2016-01-15
-  info: Introduction to the course
+  info: Introduction to the Course and Service Learning
   hw:
 
 #
@@ -12,8 +12,12 @@
 #
 -
   date: 2016-01-22
-  info: Introduction to service learning
+  info: "Introduction to Organizational Science, Communities of Practice, and the Tech Community"
   hw:
+    - info: "Bring assigned material to class"
+  act:
+    - info: "Establish team roles"
+    - info: "Present your material"
 
 
 
@@ -23,10 +27,13 @@
 #
 -
   date: 2016-01-29
-  info: "Peer Review of Proposals<br/>Intro to Organizational Technology"
+  info: "Workshop Day: each team member in a workshop."
+  act:
+    - info: "Proposal writing workshop"
+    - info: "Project lifecycle workshop"
+    - info: "Organizational technology workshop"
   hw:
-    - info: Proposal Draft Due
-      link: Who knows
+    - info: "Bring workshop materials to class"
 
 #
 # ==================
@@ -34,27 +41,38 @@
 #
 -
   date: 2016-02-5
-  info: Proposal Writing Workshop (Meera Sridhair + Berto?)
+  info: "First Milestone Day"
   hw:
+    - info: Project Proposal Draft Due
+    - info: Organizational Structure Document Due
+    - info: "Evaluation Plan Due"
+  act:
+    - info: "Peer Review All Homework"
+    - info: "Establish project plan"
+    - info: "Discuss evaluation plan"
 
 -
   date: 2016-02-12
-  info: "Teambuilding Workshop: (Who can host?)"
+  info: "Marketing and Community Development"
   hw:
-  - Funding Proposals due
+    - info: "Team Website Due"
+
 #
 # ==================
 # Week 4
 #
 -
   date: 2016-02-19
-  info: Organizational Technologies Presentation
+  info: Preliminary Funding Presentation
+  act:
+    - info: "Convince a panel of faculty members to invest in your startup."
   hw:
+    - info: "Funding Proposals Due"
 
 -
   date: 2016-2-26
-  info: Present funding proposals
-  hw:
+  info: Preliminary Funding Presentation
+
 
 #
 # ==================
@@ -62,7 +80,7 @@
 #
 -
   date: 2016-3-4
-  info: Industry Career Panel - (I'm at a Conference)
+  info: "Industry Career Panel (I'm at a Conference) - Tentative Attendees: QA from Microsoft, Director J&J, Post-doc UNC Charlotte, Software Engineer from Amazon."
   hw:
 
 
@@ -73,8 +91,9 @@
   break: No Class - Spring Break
 -
   date: 2016-3-18
-  info: Panel for Career Opportunities
+  info: Second Milestone
   hw:
+    - info: "Progress Report Due"
 
 -
   date: 2016-3-25
@@ -84,7 +103,7 @@
 
 -
   date: 2016-4-1
-  info: 
+  info:
   hw:
 
 -
@@ -109,5 +128,6 @@
 
 -
   date: 2016-5-6
-  info:
-  hw:
+  info: "IPO: Initial Public Offering"
+  act:
+    - info: "Your startup goes public. Present the progress that your startup made throught the semester to a group of investors (faculty members, students, friends, etc)"

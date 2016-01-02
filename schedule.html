@@ -15,7 +15,9 @@ layout: top
     <colgroup>
       <col class="col-xs-1">
       <col class="col-xs-1">
+              {% comment %}
       <col class="col-xs-1">
+              {% endcomment %}
       <col class="col-xs-3">
       <col class="col-xs-3">
       <col class="col-xs-3">
@@ -23,10 +25,12 @@ layout: top
     <thead>
       <tr>
         <th>Week</th>
+        {% comment %}
         <th>Day</th>
+        {% endcomment %}
         <th>Date</th>
         <th>Topics</th>
-        <th>Activity</th>
+        <th>In Class Activity</th>
         <th>Homework</th>
       </tr>
     </thead>
@@ -35,18 +39,33 @@ layout: top
 
     <tr{% if lec.break %} class="info"{% endif %}>
       {% assign day = lec.date | date: "%a" %}
-      <th>{% if day == "Fri" %}
+
+      <td>{% if day == "Fri" %}
           {% assign week = week | plus: 1 %}
           {{ week }}
-        {% endif %}</th>
+        {% endif %}
+      </td>
+      {% comment %}
       <td>{{ day }}</td>
+      {% endcomment %}
+
       <td>{{ lec.date | date: "%b %d" }}</td>
       {% if lec.break %}
       <td>{{ lec.break }}</td>
       {% else %}
       <td>{% if lec.info %}{{ lec.info | markdownify }}{% endif %}</td>
       {% endif %}
-      <td></td>
+      <td>
+        {% if lec.act %}
+          {% for item in lec.act %}
+            {% if item.link %}
+            <a href="{{item.link}}">{{item.info}}</a>
+            {% else %}
+            <p>{{item.info}}</p>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </td>
       <td>
         {% if lec.hw %}
           {% for item in lec.hw %}
