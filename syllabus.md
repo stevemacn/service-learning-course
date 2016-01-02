@@ -49,11 +49,14 @@ After successful completion of this course and dependent on your course role, yo
 
 * Problem identification: identify a problem of social / cultural relevance.
 * Problem deconstruction: determine the components that make up the problem.
-* Proposal writing: summarize the problem, the solution, and create a timeline.
-* Develop a project: keep to a timeline, recruit supporters, market the project.
-* Organize a team:
-* Social impact:
-* Critical evaluation: provide constructive, actionable feedback for other teams and teammates.
+* Proposal writing: summarize the problem, motivate the solution, and explain the solution.
+* Agile Development: establish goals, timelines, and incremental deliverables. 
+* Data-driven Goals: direct and redirect goals through data collection and analysis. 
+* Community Development: organize a community around a product, idea, or team.
+* Organize a team: establish an organizational structure for your team, implement it, and update it when necessary.
+* Critical Evaluation: provide constructive, actionable feedback for other teams and teammates.
+* Role Identification: identify the roles that exist in different types of companies.
+* Social Impact: see first hand how work that you do affects those around you.
 
 ### Grading 1610/3210
 
@@ -85,11 +88,9 @@ These are examples of things each role might be expected to do within a team. De
 
 **Designer**
 
-- Project proposal 
-- Funding proposal 
-- Project documentation 
-- Project pitch 
-- Evaluate each manager's execution of the project plan 
+- Write a project proposal 
+- Write a funding proposal  
+- Present a project pitch 
 
 **Project Manager**
 
@@ -104,14 +105,13 @@ These are examples of things each role might be expected to do within a team. De
 - Establish a relationship with the stakeholders 
 - Perform needfinding analysis to determine stakeholder's needs 
 - Maintain team's website and social media pressence 
-- Create a brand for your team project (10%)
+- Create a brand for your team project 
 
 **Developer**
 
 - Create a development timeline 
 - List the features that will be included 
 - Establish milestones for each sprint  
-- Maintain code in version control 
 - Implementation 
 
 **Data Analyst**
