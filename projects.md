@@ -8,22 +8,19 @@ Projects
 
 <hr/>
 
-### Most participation award
+These are some example ideas that your "startup" might adopt. Your group can use these as is, modify them, or create your own.
 
-Team 3
+###Student Mentorship Program
+How can we help UNC students cognitive science or computing into their career? Design, market, and implement a peer mentorship service on campus. Obtain student clients, and establish goals for them, such as obtaining a minor in cognitive science. Work with them to outline a plan for the next few semesters.  
 
-### Most funded award
+This idea is similar to https://twitter.com/CCICareer
 
-Team 1
+###Learning Evaluation Service
+How do students use sketchbooks in the classroom? We collect sketchbook from an introductory programming course. Students quantitatively and qualitatively analyze the sketchbooks to determine if they support or inhibit learning.
 
-### Highest attendance award
+This idea is similar to http://www.qualtrics.com/
 
-Team 4
+###Video Game Development Bootcamp
+Teach K-12 students the basics of programming through the process of developing a video game. Use curriculum from previous offerings or develop your own. 
 
-### Team Overviews
-
-Link to Team 1
-
-Link to Team 2
-
-Link to Team 3
+This idea is similar to http://devbootcamp.com/
