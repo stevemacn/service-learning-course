@@ -1,3 +1,4 @@
+
 ---
 title:      Syllabus
 layout:     top
@@ -54,68 +55,76 @@ After successful completion of this course and dependent on your course role, yo
 * Social impact:
 * Critical evaluation: provide constructive, actionable feedback for other teams and teammates.
 
-### Grading 3211/3212
+### Grading 1610/3210
 
 The grading criteria is very flexible. Students may take this course for a
 variety of reasons: giving back to the community, leading a service
-project, or designing your own service project. The grading scheme will be
+project, or designing your own service project. The grading scheme may be
 adjusted to reflect each of these diverse goals.
 
 **All students (40%)**
 
-- Meets volunteer hours for semester (40%)
+- Meets volunteer hours for semester (20%)
+- Written reflections (10%)
+- Evaludation plan for the semester (10%)
 
-**Design (60%)**
+**Role-based Grade (60%)**
 
-- Project proposal (20%)
-- Funding proposal (20%)
-- Revise current curriculum (10%)
-- Project pitch (10%)
+This grade will be determined by the evaluation plan that you create. Both the instructor and the team will agree on evaluation plans for each role within each team. These plans are determined by you and your team because each team will have different roles, goals, and responsibilities. 
 
-**Project Manager (60%)**
+**Extra (<15%)**
 
-- Organize support students for each outreach project (30%)
-- Collect data about the effectiveness of the project (10%)
-- Collect data about the performance of each support student (10%)
-- Provide training for support students (10%)
-
-**Community Manager (60%)**
-
-- Establish a time and place for volunteer outreach (20%)
-- Create website for the group (20%)
-- Create a social media presence (10%)
-- Brand the groups' project (10%)
+- Submit pull request to the course website (1-5%)
+- Exceed volunteer hours (<5%)
+- Class attendance (<5%) 
 
 
-### Grading 1610/3210
+###Example Roles
 
-Students in these classes will have work most closely with the community.
-Students will develop rapport with those that they serve, they will provide
-meaningful help to those who need it. This experience is especially rewarding
-because you get to see first hand the affect that your service has on the community.
+These are examples of things each role might be expected to do within a team. Depending on the type of project your team chooses these roles may be modified in some way or may not exist at all.
 
-**Support (100%)***
+**Designer**
 
-- Meets volunteer hours for the semester (60%)
-- Provide critique for students in 3211 / 3212 (10%)
-- Written reflections after each outreach event (30%)
+- Project proposal 
+- Funding proposal 
+- Project documentation 
+- Project pitch 
+- Evaluate each manager's execution of the project plan 
 
-**Extra (<20%)**
+**Project Manager**
 
-- Submit a pull request to the course website (1-5%)
-- Exceed volunteer hours (<10%)
-- Professional Development: share your experience (<5%)
-    - Add an entry to your CV
-    - Put something about your experience on your website.
+- Determine the organizational strategy for the team 
+- Coordinate with the designer and execute the project plan 
+- Collect data about the effectiveness of the project 
+- Collect data about the performance of each team member 
+- Provide training to team members 
+
+**Community Manager**
+ 
+- Establish a relationship with the stakeholders 
+- Perform needfinding analysis to determine stakeholder's needs 
+- Maintain team's website and social media pressence 
+- Create a brand for your team project (10%)
+
+**Developer**
+
+- Create a development timeline 
+- List the features that will be included 
+- Establish milestones for each sprint  
+- Maintain code in version control 
+- Implementation 
+
+**Data Analyst**
+
+- Generate reports from data collected by project or community managers
+- Establish protocols for data collection by team members
+- Find data online to support the viability of your team's project commercially. 
+
 
 
 ### Catalog description
 
-This is a service-learning course that builds upon the leadership concepts from 3610 through focused hands-on experience with service-learning projects. This is a companion course to ITCS 3211. Students in this course serve as team leaders for the team projects undertaken by students in ITCS 3211. Students will lead teams to apply computing technologies, knowledge and skills to serve community needs. This course can be repeated for elective credit. (Fall, Spring)
-
-### Prerequisites
-
-ITCS 3610 or ITCS 1610.
+[Course catalog information for these cross-listed courses](http://facultygovernance.uncc.edu/course-and-curriculum-approvals/request-establish-itcs-3610-3211-3212-and-1610)
 
 ### Texts
 
