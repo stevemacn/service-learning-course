@@ -25,37 +25,24 @@ Hours: {{site.office-hours}}<br />
 
 ### Course Overview
 
-This course is designed to provide outreach to local communities, such as:
+This course is designed to provide outreach to local communities. 
 
-* Building apps to solve community problems.
-* Provide mentorship to other students at UNCC.
-* Provide outreach education programs for k-12 students.
-
-*This is not an exhaustive list but merely suggests some possible options.*
-
-### Course Activities
-
-This course will feature 4 different kinds of roles.
-
-* Curriculum Designers: create new curriculum that is taught the follow semester.
-* Project Managers: execute current curriculum, organize outreach, provide leadership.
-* Community Developers: make current curriculum scalable and viable.
-* Supporters: students from 1610/3210 who provide outreach to the community.
+The class emulates a [seed accelerator / startup incubator](https://en.wikipedia.org/wiki/Seed_accelerator). Students will form teams and identify problems that are socially-relevant. These teams will act as startups with each team-member assuming some role within the startup. The startup will be mentored by the instructor and either a faculty or industry member as available. The startup will develop and market their solution which may or may not be software related. The focus of the course will not be on the project but rather on understanding the roles that are available, how they interact, and how companies can affect society. 
 
 ### Learning Goals
 
 After successful completion of this course and dependent on your course role, you will be able to:
 
-* Problem identification: identify a problem of social / cultural relevance.
-* Problem deconstruction: determine the components that make up the problem.
-* Proposal writing: summarize the problem, motivate the solution, and explain the solution.
-* Agile Development: establish goals, timelines, and incremental deliverables. 
-* Data-driven Goals: direct and redirect goals through data collection and analysis. 
-* Community Development: organize a community around a product, idea, or team.
-* Organize a team: establish an organizational structure for your team, implement it, and update it when necessary.
-* Critical Evaluation: provide constructive, actionable feedback for other teams and teammates.
-* Role Identification: identify the roles that exist in different types of companies.
-* Social Impact: see first hand how work that you do affects those around you.
+* Identify socially relevant problems.
+* Deconstruct problem into its constituent parts. 
+* Write a proposal that identifies a problem and suggests a well-supprted solution.
+* Develop a plan by establishing goals, timelines, and deliverables.
+* Create a community by identifying stakeholders, performing need-finding analysis, and rallying supporters to your cause.
+* Use data-driven arguements to support your ideas and establish arguements.
+* Manage a team by establishing and implementing an organizational structure.  
+* Identify roles that exist in typical companies.
+* Provide constructive feedback to other team members.
+* Have fun and have a social impact to see first hand how your work can affect others and change the world for the better. 
 
 ### Grading 1610/3210
 
