@@ -32,6 +32,7 @@
     - info: "Proposal writing workshop"
     - info: "Project lifecycle workshop"
     - info: "Organizational technology workshop"
+    - info: "Leadership workshop"
   hw:
     - info: "Bring workshop materials to class"
 
@@ -45,9 +46,9 @@
   hw:
     - info: Project Proposal Draft Due
     - info: Organizational Structure Document Due
-    - info: "Evaluation Plan Due"
+    - info: "Individual Evaluation Plan Due"
   act:
-    - info: "Peer Review All Homework"
+    - info: "Peer Review"
     - info: "Establish project plan"
     - info: "Discuss evaluation plan"
 
@@ -103,8 +104,9 @@
 
 -
   date: 2016-4-1
-  info:
+  info: "Possible Research Lab Tour Day"
   hw:
+      - info: "First Team Assessments Due"
 
 -
   date: 2016-4-8
@@ -118,13 +120,19 @@
 
 -
   date: 2016-4-22
-  info:
+  info: "Moving Forward: self-promotion workshop"
+  act: 
+    - info: "Resume / CV writing workshop"
+    - info: "Personal website workshop"
   hw:
 
 -
   date: 2016-4-29
-  info:
-  hw:
+  info: "Public Speaking workshop"
+  hw: 
+    - info: "Final Team Assessments Due"
+  act:
+    - info: "Public speaking practie for the IPO day"
 
 -
   date: 2016-5-6
