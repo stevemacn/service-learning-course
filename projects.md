@@ -24,3 +24,8 @@ This idea is similar to http://www.qualtrics.com/
 Teach K-12 students the basics of programming through the process of developing a video game. Use curriculum from previous offerings or develop your own. 
 
 This idea is similar to http://devbootcamp.com/
+
+###TEDxUNCCharlotte
+Invite speakers that can present multidisciplinary topics. Charge less than $100 (as stipulated by TEDx) and pay the speakers' travel expenses. Use an auditorium on campus and establish a theme that will inform the decor of the auditorium and brand the event.
+
+This idea is similar to http://tedxpurdueu.com/
