@@ -37,12 +37,12 @@ After successful completion of this course and dependent on your course role, yo
 * Deconstruct problem into its constituent parts. 
 * Write a proposal that identifies a problem and suggests a well-supprted solution.
 * Develop a plan by establishing goals, timelines, and deliverables.
-* Create a community by identifying stakeholders, performing need-finding analysis, and rallying supporters to your cause.
+* Create a community: identify stakeholders, perform need-finding analysis, and rally supporters to your cause.
 * Use data-driven arguements to support your ideas and establish arguements.
 * Manage a team by establishing and implementing an organizational structure.  
 * Identify roles that exist in typical companies.
 * Provide constructive feedback to other team members.
-* Have fun and have a social impact to see first hand how your work can affect others and change the world for the better. 
+* Have fun and make an impact. See first hand how your work can affect others and change the world.
 
 ### Grading 1610/3210
 
@@ -51,13 +51,14 @@ variety of reasons: giving back to the community, leading a service
 project, or designing your own service project. The grading scheme may be
 adjusted to reflect each of these diverse goals.
 
-**All students (40%)**
+**All students (50%)**
 
 - Meets volunteer hours for semester (20%)
 - Written reflections (10%)
+- In class discussions / activies (10%)
 - Evaludation plan for the semester (10%)
 
-**Role-based Grade (60%)**
+**Role-based Grade (50%)**
 
 This grade will be determined by the evaluation plan that you create. Both the instructor and the team will agree on evaluation plans for each role within each team. These plans are determined by you and your team because each team will have different roles, goals, and responsibilities. 
 
