@@ -20,11 +20,19 @@ layout: top
   {% endfor %}
 </div>
 
+###Outreach Resources
+{% for resource in site.data.resources %}
+{% if resource.type == "outreach" %}
+  {{resource.title}}<a href="{{resource.link}}">{{resource.link}}</a>
+{% endif %}
+{% endfor %}
 
-###Tech Resources
+
+###General Resources
 
 {% for resource in site.data.resources %}
 {% if resource.type == "web" %}
   {{resource.title}}<a href="{{resource.link}}">{{resource.link}}</a>
 {% endif %}
 {% endfor %}
+

@@ -30,6 +30,10 @@
   type: video
   title: "Communities of Practice: Makerspace/Hackerspace."
 
+- link: "https://www.youtube.com/embed/CBYhVcO4WgI"
+  type: video
+  title: "YCombinator: how to start a startup series intro."
+
 - link: https://www.youtube.com/watch?v=B6zVzWU95Sw
   type: web
   title: "Ridiculous hipster video about adopting slack: "
@@ -41,3 +45,19 @@
 - link: http://www.theatlantic.com/education/archive/2014/08/qa-the-miseducation-of-our-college-elite/377524/
   type: web
   title: '[Elitism]... "can lead to a cycle of grandiosity and depression": '
+
+- link: "http://www.citizenschools.org/northcarolina/results/"
+  type: outreach
+  title: "Citizen Schools: provide multiple week k-12 CS Ed outreach: "
+
+- link: "http://starscomputingcorps.org/sparcs/about"
+  type: outreach
+  title: "SPARCS Academy: "
+
+- link: "http://oeo.uncc.edu/jrmf"
+  type: outreach
+  title: "Julia Robinson Mathematics and Computing Festival: "
+
+- link: "https://www.cpcc.edu/thegeekfest"
+  type: outreach
+  title: "CPCC Geekfest (fall only): "
