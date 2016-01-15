@@ -1,14 +1,43 @@
 - link: https://www.youtube.com/embed/-dMoK48QGL8
   type: video
   title: "The implications of inequity"
+
 - link: https://www.youtube.com/embed/iCXfJVCg1LA
   type: video
   title: "Environment affects behavior"
+
+- link: https://www.youtube.com/embed/xjwGOgXZpWI
+  type: video
+  title: "What is meaningful work?"
+
+- link: https://www.youtube.com/embed/3B_1itqCKHo
+  type: video
+  title: "Idea Technology and creating theories about human nature"
+
+- link: "https://www.youtube.com/embed/5aH2Ppjpcho"
+  type: video
+  title: Meaning improves motivation and monotony kills it
+
+- link: "https://www.youtube.com/embed/5hXFwMyK1KE"
+  type: video
+  title: "Voluntourism: a different perspective"
+
+- link: "https://www.youtube.com/embed/8ONf8SXbGZ4"
+  type: video
+  title: "Development Bootcamps: teaching basic code literacy"
+
+- link: "https://www.youtube.com/embed/wamwklXWK4M"
+  type: video
+  title: "Communities of Practice: Makerspace/Hackerspace."
+
 - link: https://www.youtube.com/watch?v=B6zVzWU95Sw
   type: web
   title: "Ridiculous hipster video about adopting slack: "
+
 - link: http://www.mbctimes.com/english/this-comic-will-forever-change-the-way-you-look-at-privilege
   type: web
   title: "Cartoon about how small advantages lead to privilege: "
 
-
+- link: http://www.theatlantic.com/education/archive/2014/08/qa-the-miseducation-of-our-college-elite/377524/
+  type: web
+  title: '[Elitism]... "can lead to a cycle of grandiosity and depression": '
