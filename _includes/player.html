@@ -1,0 +1,24 @@
+
+<div id="vid-container-{{id}}" class="vid-container">
+    <iframe id="vid_frame-{{id}}"
+    src='https://www.youtube.com/embed/{{data[0].link}}?autoplay=0&rel=0&showinfo=0&autohide=1'
+    style="background:black; padding:20px"  frameborder="0" width="560" height="315"></iframe>
+</div>
+
+<div class="vid-list-container">
+	<div class="vid-list">
+  {% for video in data %}
+
+    <div class="vid-item" onClick="document.getElementById('vid_frame-{{id}}').src='https://www.youtube.com/embed/{{video.link}}?autoplay=1&rel=0&showinfo=0&autohide=1'">
+      <div class="thumb"><img src="http://img.youtube.com/vi/{{video.link}}/0.jpg"></div>
+      <div class="desc">{{video.title}}</div>
+    </div>
+
+  {% endfor %}
+  </div>
+</div>
+
+<div class="arrows">
+    <div id="arrow-left-{{id}}" class="arrow-left"><i class="fa fa-chevron-left fa-lg"></i></div>
+    <div id="arrow-right-{{id}}" class="arrow-right"><i class="fa fa-chevron-right fa-lg"></i></div>
+</div>

@@ -18,7 +18,7 @@ An appropriate pull request might be fixing a broken link, correcting a typo, up
 
 Thank you to [David Bindel][Bindel] for the inspiration. Some code
 was borrowed from his [course website][bindel-course-website] under the Creative
-Commons License. Consequently, we maintain this license.
+Commons License. Consequently, we maintain this license. Thank you to Mike Wooster for the [video player jQuery plugin][video-player].
 
 <div style="margin-top:30px; text-align:center">
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
@@ -29,3 +29,4 @@ Commons License. Consequently, we maintain this license.
 [gh-pages]: http://jekyllrb.com/docs/github-pages/
 [Bindel]: http://www.cs.cornell.edu/~bindel/
 [bindel-course-website]: http://cornell-cs5220-f15.github.io/
+[video-player]:http://www.woosterwebdesign.com/responsive-youtube-player-with-playlist/
