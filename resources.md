@@ -60,7 +60,11 @@ opportunities at UNC Charlotte.
 
 ###Outreach Resources
 {% for resource in site.data.resources %}
-{% if resource.type == "outreach" %}
+{% if resource.type == "outreach" and resource.invalid %}
+  <p style="color:#d3d3d3; text-decoration: line-through;">
+  {{resource.title}}<a style="color:#d3d3d3" href="{{resource.link}}">{{resource.link}}</a>
+  </p>
+{% elsif resource.type == "outreach" %}
   {{resource.title}}<a href="{{resource.link}}">{{resource.link}}</a>
 {% endif %}
 {% endfor %}

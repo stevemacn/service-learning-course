@@ -114,6 +114,7 @@
 
 - link: "https://www.cpcc.edu/thegeekfest"
   type: outreach
+  invalid: true
   title: "CPCC Geekfest (fall only): "
 
 - link: ""
@@ -122,6 +123,7 @@
 
 - link: ""
   type: outreach
+  invalid: true
   title: "Girl Scout STEM Expo - April 30 (speak to Gyovanni)"
 
 - link: ""
