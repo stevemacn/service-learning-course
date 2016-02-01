@@ -4,21 +4,32 @@
 -
   date: 2016-01-15
   info: Introduction to the Course and Service Learning
-  hw:
+  act:
+    - info: "Group remixes"
 
 #
 # ==================
 # Week 2
 #
--
-  date: 2016-01-22
-  info: "Introduction to Organizational Science, Communities of Practice, and the Tech Community"
-  hw:
-    - info: "Bring assigned material to class"
-  act:
-    - info: "Establish team roles"
-    - info: "Present your material"
 
+- 
+  date: 2016-01-22
+  info: Snow day! No Class 
+  break: No Class - Snow day
+
+
+#
+-
+  date: 2016-01-29
+  info: "Introduction to Management: how the industrial revolution shaped modern management theory."
+  #info: "Introduction to Organizational Science, Communities of Practice, and the Tech Community"
+  hw:
+    - info: "Preliminary Project Proposals"
+    - info: "Watch 2 Videos from Management Section"
+      # - info: "Bring assigned material to class"
+  act:
+    - info: "Sandwich shop scenario"
+    - info: "Discuss team products"
 
 
 #
@@ -26,7 +37,7 @@
 # Week 3
 #
 -
-  date: 2016-01-29
+  date: 2016-02-5
   info: "Workshop Day: each team member in a workshop."
   act:
     - info: "Proposal writing workshop"
@@ -41,7 +52,15 @@
 # Week 3
 #
 -
-  date: 2016-02-5
+  date: 2016-2-12
+  info: Marketing and Community Development (Communities of Practice, Crowdfunding, and Crowdsourcing)
+
+#
+# ==================
+# Week 4
+#
+-
+  date: 2016-02-19
   info: "First Milestone Day"
   hw:
     - info: Project Proposal Draft Due
@@ -52,28 +71,20 @@
     - info: "Establish project plan"
     - info: "Discuss evaluation plan"
 
--
-  date: 2016-02-12
-  info: "Marketing and Community Development"
-  hw:
-    - info: "Team Website Due"
+      #-
+      #  date: 2016-02-12
+      #  info: "Marketing and Community Development"
+      #  hw:
+      #    - info: "Team Website Due"
 
-#
-# ==================
-# Week 4
-#
+
 -
-  date: 2016-02-19
+  date: 2016-02-26
   info: Preliminary Funding Presentation
   act:
     - info: "Convince a panel of faculty members to invest in your startup."
   hw:
     - info: "Funding Proposals Due"
-
--
-  date: 2016-2-26
-  info: Preliminary Funding Presentation
-
 
 #
 # ==================
