@@ -53,7 +53,7 @@ adjusted to reflect each of these diverse goals.
 
 **All students (50%)**
 
-- Meets volunteer hours for semester (20%)
+- Participate in 5 service outreach sessions (At least 2 external) (20%)
 - Written reflections (10%)
 - In class discussions / activies (10%)
 - Evaludation plan for the semester (10%)
