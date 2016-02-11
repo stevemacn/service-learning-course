@@ -66,6 +66,7 @@
     - info: Project Proposal Draft Due
     - info: Organizational Structure Document Due
     - info: "Individual Evaluation Plan Due"
+      link: "./evalsheet.pdf"
   act:
     - info: "Peer Review"
     - info: "Establish project plan"

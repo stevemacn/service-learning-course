@@ -27,7 +27,8 @@ layout: top
   });
 </script>
 
-##Resources
+Resources
+--
 
 This page has video libraries curated by topic and a current list of
 volunteer opportunities on campus. Videos are used in lieu of a textbook
