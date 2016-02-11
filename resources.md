@@ -39,25 +39,25 @@ opportunities at UNC Charlotte.
 
 <hr/>
 
-###Society and Motivation
+### Society and Motivation
 
 {% assign id = "society" %}
 {% assign data = site.data.resources | where: "type", id  %}
 {%include player.html %}
 
-###Community
+### Community
 
 {% assign id = "community" %}
 {% assign data = site.data.resources | where: "type", id  %}
 {%include player.html %}
 
-###Startups
+### Startups
 
 {% assign id = "startups" %}
 {% assign data = site.data.resources | where: "type", id  %}
 {%include player.html %}
 
-###Management
+### Management
 
 {% assign id = "management" %}
 {% assign data = site.data.resources | where: "type", id  %}
@@ -65,7 +65,7 @@ opportunities at UNC Charlotte.
 
 
 
-###Outreach Resources
+### Outreach Resources
 {% for resource in site.data.resources %}
 {% if resource.type == "outreach" and resource.invalid %}
   <p style="color:#d3d3d3; text-decoration: line-through;">
@@ -77,7 +77,7 @@ opportunities at UNC Charlotte.
 {% endfor %}
 
 
-###General Resources
+### General Resources
 
 {% for resource in site.data.resources %}
 {% if resource.type == "web" %}
