@@ -46,6 +46,12 @@ opportunities at UNC Charlotte.
 
 ###Community
 
+{% assign id = "community" %}
+{% assign data = site.data.resources | where: "type", id  %}
+{%include player.html %}
+
+###Startups
+
 {% assign id = "startups" %}
 {% assign data = site.data.resources | where: "type", id  %}
 {%include player.html %}
