@@ -64,9 +64,10 @@
   info: "First Milestone Day"
   hw:
     - info: Project Proposal Draft Due
+      link: "./proposal.pdf"
     - info: Organizational Structure Document Due
     - info: "Individual Evaluation Plan Due"
-      link: "./evalsheet.pdf"
+      link: "./evaluation.pdf"
   act:
     - info: "Peer Review"
     - info: "Establish project plan"
