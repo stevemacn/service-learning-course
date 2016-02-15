@@ -65,7 +65,7 @@
   hw:
     - info: Project Proposal Draft Due
       link: "./documents/proposal.pdf"
-    - info: Organizational Structure Document Due
+    - info: Organizational Structure Due
     - info: "Individual Evaluation Plan Due"
       link: "./documents/evaluation.pdf"
   act:
@@ -84,9 +84,9 @@
   date: 2016-02-26
   info: Preliminary Funding Presentation
   act:
-    - info: "Convince a panel of faculty members to invest in your startup."
+      - info: "Convince a panel of faculty members to invest in your startup."
   hw:
-    - info: "Funding Proposals Due"
+    - info: "Funding Pitches Due"
 
 #
 # ==================

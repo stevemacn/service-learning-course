@@ -144,7 +144,12 @@
 
 - link: ""
   type: outreach
+  invalid: true
   title: "Blue Diamond Awards (3 students needed) - March 1 (speak to Gyovanni)"
+
+- link: ""
+  type: outreach
+  title: "Hunter Huss HS Women in STEM Conference (March 22)"
 
 - link: ""
   type: outreach
