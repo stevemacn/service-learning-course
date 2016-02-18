@@ -10,7 +10,7 @@ Projects
 
 These are some example ideas that your "startup" might adopt. Your group can use these as is, modify them, or create your own.
 
-### Student Mentorship Program
+### Student Mentorship Program!
 
 
 How can we help UNC students cognitive science or computing into their career? Design, market, and implement a peer mentorship service on campus. Obtain student clients, and establish goals for them, such as obtaining a minor in cognitive science. Work with them to outline a plan for the next few semesters.  
