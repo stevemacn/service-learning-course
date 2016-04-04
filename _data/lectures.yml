@@ -109,7 +109,7 @@
   break: No Class - Spring Break
 -
   date: 2016-3-18
-  info: "Possible Research Lab Tour Day"
+  info: "Prep for Julia Robinson Mathematics and Computing Festival"
 
 -
   date: 2016-3-25
@@ -119,18 +119,20 @@
 
 -
   date: 2016-4-1
-  info: Second Milestone
-  hw:
-    - info: "Progress Report Due"
+  info: "Lab Tours"
+  act:
+      - info: "Robotics, HCI, Visualization, Security, 49th Cyber Security"
+  #hw:
+      #  - info: "Progress Report Due"
 
 -
   date: 2016-4-8
-  info: "Validation: research methods to evaluate outreach effectiveness"
+  info: "Concept Review and planning"
   hw:
 
 -
   date: 2016-4-15
-  info: "STARS planning session" 
+  info: "Validation: research methods to evaluate outreach effectiveness"
   hw:
   act: 
     - info: "Graduate school panel"
